@@ -1,0 +1,22 @@
+.container-fluid{
+    padding: 0px;
+}
+.carousel-control-prev-icon{
+    background-color: red;
+    opacity: 40%;
+}
+.card-body{
+    padding-left: 0px;
+}
+.btn{
+    border:1px solid #E76F51;
+    color: #E76F51;
+    background-color: #ffffff;
+}
+.btn:hover{
+    color: burlywood;
+    border:1px solid #E76F51;
+}
+.line-hight{
+    line-height: 2.5;
+}
